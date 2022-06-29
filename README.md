@@ -1,7 +1,7 @@
 # IP Based Weather App
 
 ## API Used
-For IP & Location : https://ipapi.co/json
+For IP & Location : https://ipapi.co/json, 
 For Weather Status & Forecaset : https://api.weatherapi.com
 
 ## Additional Packages
